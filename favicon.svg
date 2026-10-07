@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Summit Ridge Plumbing">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#1563c0"/>
+      <stop offset="100%" stop-color="#062f63"/>
+    </linearGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="url(#bg)"/>
+  <path d="M32 10 12 54h40L32 10Z" fill="none" stroke="#ffffff" stroke-width="3" stroke-linejoin="round" opacity="0.85"/>
+  <path d="M32 26c8 9 12 15 12 21a12 12 0 1 1-24 0c0-6 4-12 12-21Z" fill="#7cc4ff"/>
+</svg>
